@@ -1,6 +1,6 @@
 # 📊 Task-02: Titanic Dataset - Data Cleaning & EDA using Python
 
-![Titanic EDA Output](images/task2.png) <!-- Make sure this image is uploaded to your GitHub repo under 'images/task2.png' -->
+![Titanic EDA Output](https://github.com/Soumyareddy-0804/PRODIGY_DS_2/blob/main/task2.png) <!-- Make sure this image is uploaded to your GitHub repo under 'images/task2.png' -->
 
 ## ✅ Task Objective
 
